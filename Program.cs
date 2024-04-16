@@ -50,6 +50,7 @@ namespace CSI120_Week2
         {
             Console.WriteLine("Lecture 3 Notes");
             Console.WriteLine();
+            Console.WriteLine("Integral Variables");
 
             int a1a = 5;
             int a1b = 3;
